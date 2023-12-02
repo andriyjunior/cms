@@ -1,0 +1,25 @@
+{
+  "buttons": {
+    "signIn": "Увійти",
+    "signUp": "Зареєструватись",
+    "signOut": "Вийти"
+  },
+  "login": {
+    "authorization": "Авторизація"
+  },
+  "registration": {
+    "createAccount": "Створити акаунт",
+    "alreadyRegistered": "У мене вже є акаунт"
+  },
+  "common": {
+    "email": "E-mail",
+    "password": "Пароль"
+  },
+  "menu": {
+    "addOrganization": "Створити компанію",
+    "dashboard": "Головна",
+    "categories": "Категорії",
+    "products": "Продукти",
+    "organizationSettings": "Налаштування компанії"
+  }
+}
